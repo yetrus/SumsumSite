@@ -1,0 +1,9 @@
+.image-container {
+    width: 100%;
+    max-width: 800px; /* Limita el tamaño máximo del contenedor */
+    margin: 0 auto; /* Centra el contenedor */
+}
+.responsive-image {
+    width: 70%;
+    height: auto; /* Mantiene la proporción de la imagen */
+}
